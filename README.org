@@ -1,0 +1,12 @@
+utility
+=======
+
+utility
+
+* AIX tools
+| tools         | comments                                 |
+|---------------+------------------------------------------|
+| remove_shm.sh | remove all shared memory of current user |
+|               |                                          |
+|               |                                          |
+|               |                                          |
