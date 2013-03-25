@@ -31,6 +31,7 @@ bookmark-create(){
 	echo $cur >> $bookmark_db_file
 	echo "Path "$cur" is added into "$bookmark_db_file
     fi
+    cur="" # change cur back to empty, or zsh will show current path as cur
 }
 
 
